@@ -6,4 +6,3 @@ mx: alt2.aspmx.l.google.com
 mx: alt3.aspmx.l.google.com
 mx: alt4.aspmx.l.google.com
 max_age: 86400
-Add mta-sts.txt inside .well-known folder
